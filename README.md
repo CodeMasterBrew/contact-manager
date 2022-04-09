@@ -1,4 +1,4 @@
-# Rentomojo Assignment
+# PHP Assignment
 <b>Tools:</b><br/>
 <p>Frontend:</p>
 <ol>
